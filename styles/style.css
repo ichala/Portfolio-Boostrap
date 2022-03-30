@@ -6,8 +6,19 @@ div {
 
 ul {
   list-style-type: none;
+display: block;
+margin-block-start: 0;
+margin-block-end: 0;
+margin-inline-start: 0;
+ margin-inline-end: 0;
+ padding-inline-start: 0;
+
 }
 
 .placeholder {
   height: 252px;
 }
+.placeholder-about {
+    background: #ebf0ee;
+    min-width: 330px;
+  }
